@@ -51,7 +51,7 @@ No último projeto do curso de React, coloquei em prática todo o conhecimento a
 
 [https://pokedex-eta-eight.vercel.app/](https://bit.ly/3D4Pctg)
 
-- ### E-comerce
+- ### E-commerce
 Na aula, desenvolvemos um simulador de e-commerce. Explore produtos, adicione ao carrinho e gerencie suas escolhas nas páginas. Utilizamos "react-router-dom" para criar as rotas. 
 Confira as funcionalidades em: [https://laughable-division.surge.sh/](https://bit.ly/3JRGySG) e experimente navegando entre as páginas pelos botões.
 
